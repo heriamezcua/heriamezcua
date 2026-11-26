@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/heribertoamezcuahernandez">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://apis.heriamezcua.es">
-    <img src="https://img.shields.io/badge/Synergic_APIs-111111?style=for-the-badge&logo=rapid&logoColor=white" alt="Synergic APIs" />
-  </a>
 </p>
 
 <br>
@@ -23,7 +20,6 @@
 I build backend services and APIs, mostly in **Java and Spring**. I came from the PHP / Laravel / WordPress world, and these days I'm also writing **Go** and **Node.js**. I like hard problems, clean APIs and shipping things people actually use.
 
 - 🔭 Working as a **Backend Developer** (Java stack)
-- 🚀 Running **[Synergic APIs](https://apis.heriamezcua.es)**: data APIs published on RapidAPI, built with Node.js on a self-managed Linux VPS
 - 🌱 Learning **Go** and building a suite of personal web apps with **React + Vite**
 - 💬 Ask me about **backend, APIs and web development**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/heribertoamezcuahernandez)**
